@@ -1,5 +1,5 @@
 # ccOS
-Complete single-user OS made entirely in Python (SOON TO BE BOOTABLE)
+Complete single-user OS made entirely in Python (SOON TO BE BOOTABLE & REPLIT COMPATIBLE)
 <br />
 <br />
 # Compile
