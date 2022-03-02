@@ -7,9 +7,9 @@ Just run A:/boot/bmgr.py
 <br />
 <br />
 # Download ISO
-ccOS bootable is based off of Ubuntu Server [THE LINKS WILL LEAD YOU TO GOOGLE.COM]<br />
-[x32 ccOS-boot 20.04.4 LTS](https://www.google.com)<br />
-[x64 ccOS-boot 20.04.4 LTS](https://www.google.com)
+ccOS bootable is based of Raspbian Lite (links lead to [google.com](https://www.google.com)<br />
+[x32 ccOS build 0](https://www.google.com)<br />
+[x64 ccOS build 0](https://www.google.com)
 <br />
 <br />
 # Licence
