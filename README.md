@@ -7,7 +7,7 @@ Just run A:/boot/bmgr.py
 <br />
 <br />
 # Download ISO
-ccOS bootable is based of Raspbian Lite (links lead to [google.com](https://www.google.com)<br />
+ccOS bootable is based of Raspbian Lite (links lead to [google.com](https://www.google.com))<br />
 [x32 ccOS build 0](https://www.google.com)<br />
 [x64 ccOS build 0](https://www.google.com)
 <br />
