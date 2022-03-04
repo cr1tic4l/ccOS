@@ -11,7 +11,7 @@ def boot(bsel):
 	if bsel == 'recovery':
 		os.system('python3 /home/runner/ccOS/R:/recovery/recovmain.py')
 
-print('ccOS - Build 22522')
+print('ccOS - Build 3422')
 print('main, recovery, ccOSdev* ')
 bselinput = input('> ')
 if bselinput == 'ccOSdev*':
@@ -20,8 +20,6 @@ if bselinput == 'main':
 	boot('main')
 if bselinput == 'recovery':
 	boot('recovery')
-if bselinput == 'img':
-	os.system('python3 A:/boot/print.py')
-if bselinput == 'e':
+if bselinput == 'inst':
 	clear()
 	os.system('python3 /home/runner/ccOS/inst/main.py')
