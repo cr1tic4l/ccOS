@@ -2,7 +2,7 @@
 Complete single-user OS made entirely in Python (SOON TO BE BOOTABLE & REPLIT COMPATIBLE)
 <br />
 <br />
-# Compile/Install
+# Install
  Any other device other than replit:<br />
  To install, make sure there is a file in your home and/or profile folder called "ccOSinst", you are able to delete this later.<br />
  Once the zip file is installed, unzip it in this new folder, run main.py in the folder. Say yes to the question then the installer will do the rest.<br />
