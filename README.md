@@ -4,7 +4,7 @@ Complete single-user OS made entirely in Python (SOON TO BE BOOTABLE & REPLIT CO
 <br />
 # Install
  Any other device other than replit:<br />
- unzip the source code into a folder named ccOS into your profile directory
+ unzip the source code into a folder named ccOS into your profile directory<br /><br />
  Replit:<br />
  fork my repl called ccOS-forkthis on account @shdwcr1ticalalt
 <br />
