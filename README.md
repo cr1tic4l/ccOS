@@ -1,2 +1,1 @@
-# THIS ACCOUNT WAS LOST
-This github account was lost, the new repo for the project is [here](https://github.com/cr1t1c41)
+# THIS ACCOUNT CANNOT BE ACCESSED, ONLY THROUGH REPLIT!! I LOST ACCESS TO THE ACCOUNT BECAUSE I LOST ACCESS TO MY EMAIL! THE NEW REPO IS AT THIS LINK: [here](https://github.com/cr1t1c41/ccOS)
